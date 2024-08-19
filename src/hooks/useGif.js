@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 
 
-const API_KEY = "w9EQ7XWsSu7ZNCaEQ9DfOqqi2ujfP8Ni";
+// const API_KEY = "use your own api key from GIPHY API";
 const url = `https://api.giphy.com/v1/gifs/random?api_key=${API_KEY}`;
 
 
